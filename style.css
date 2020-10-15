@@ -1,0 +1,32 @@
+body{
+    background-color:aquamarine;
+}
+.heading{
+    background-color: aqua;
+    justify-content:center ;
+     justify-content: space-evenly;
+    padding-left: 50%;
+     margin-left:100px;
+     margin-right:80px;
+
+}
+p{
+    font-size:18px ;
+   color:rebeccapurple ;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size:25px;
+}
+
+
+ a : link{
+           color:white;
+       }
+
+a :visited{
+           color:white;
+       }
